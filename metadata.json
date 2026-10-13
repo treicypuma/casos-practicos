@@ -1,0 +1,6 @@
+{
+  "name": "Weather ABC",
+  "description": "Aplicación interactiva de Aprendizaje Basado en Casos (ABC): Caso App del Clima y migración de datos hardcodeados a Retrofit API real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
